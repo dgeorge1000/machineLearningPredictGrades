@@ -9,6 +9,14 @@ Once the data completes the runs it saved the model into a pickle file so that t
 
 Finally, the code uses matplotlib to display all the labels against test2 to see how test2 is influenced by the factors such as semester, gpa, difficulty, etc.
 
+VALUES:
+
+Best accuracy run:  88.04178035302945 %
+Test: 
+Prediction: 90.32193165303778      Data: [ 6.  4.  4.  3. 87.]        Actual: 93.0
+Prediction: 104.25035114912606     Data: [  6.   3.   4.   3. 100.]    Actual: 87.0
+
+
 EVALUATION:
 
 Not providing enough data is a major issue for the model. To create a proper linear regresssion there needs to be a lot of data so the model can omit outliers, however, in the data used their are several outliers that clearly are influencing the predictions. On the predicted dataset, the model predicts from a test1 of 100 that test2 would be 104.25, when the actual value was 87. That being said when looking at the graphs they do demonstrate accurate evaulations in that as values like the gpa, and semester goes up the test2-test1 difference is greater, and while values like difficulty goes up the test2-test1 difference is less.
