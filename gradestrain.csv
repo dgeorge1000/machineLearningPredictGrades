@@ -1,0 +1,30 @@
+﻿semester;class;difficulty(1-4);gpa;credits;test1;test2;test3;test4;test5;test6
+1;Chemistry I;4;3.583;3;90;89
+1;Chemistry I Lab;3;3.583;1;85;95
+1;MA121;4;3.583;2;78;76
+1;MA122;4;3.583;2;90;62
+1;CAL103;3;3.583;3;87;93;87
+2;Chemistry II;3;3.834;3;95;93
+2;Chemistry II Lab;2;3.834;1;85;95
+2;MA123;3;3.834;2;74;78
+2;MA124;3;3.834;2;76;85
+2;MGT;1;3.834;3;100;90
+2;CAL105;4;3.834;3;81.5;88
+2;Mechanics;2;3.834;3;86.66666;66.66666;93.33333;86.66666;100;94
+3;Mechanics of Solids;3;4;4;93;90;96.66666
+3;Circuits and Systems;1;4;3;99;99;100;94
+3;Discrete Mathematics;4;4;3;93;89;84.17
+3;Intro to Cinema;1;4;3;95;94;96.66666;96
+3;Electricity & Magnetism;3;4;3;85;76.15385;102.5;120.5
+4;Computational Algorithms & Data Structure;1;3.948;3;98;100
+4;Microprocessor Systems;2;3.948;4;105.26316;103.15790
+4;Thermodynamics;3;3.948;3;100;90;86.66666;86.66666
+4;History of Medicine;2;3.948;3;97.5;95.5
+4;Materials Processing;4;3.948;3;87;84;80.39216
+5;Modeling and Simulation;3;4;3;105;115
+5;Probability & Statis. for Engr.;2;4;3;97;99;98
+5;Transport Pheno/Sld Device;2;4;3;102.63158;130.25714;107.1428671;94.31818
+5;Intro to Science & Tech Studies;1;4;3;100;100;100
+
+6;Algorithm;4;4;3;87;93
+6;C++;3;4;3;100;87
