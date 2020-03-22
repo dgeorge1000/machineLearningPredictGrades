@@ -14,11 +14,13 @@ Finally, the code uses matplotlib to display all the labels against test2 to see
 
 VALUES:
 
-Best accuracy run:  88.04178035302945 %
-Test: 
-Prediction: 90.32193165303778      Data: Semester=6, Difficulty=4/4, gpa=4.0, credits=3      Actual: 93.0
-Prediction: 104.25035114912606     Data: Semester=6, Difficulty=3/4, gpa=4.0, credits=3      Actual: 87.0
+Best accuracy run:  88.04178035302945%
 
+Test:
+
+Prediction: 90.32193165303778      Data: Semester=6, Difficulty=4/4, gpa=4.0, credits=3      Actual: 93.0
+
+Prediction: 104.25035114912606     Data: Semester=6, Difficulty=3/4, gpa=4.0, credits=3      Actual: 87.0
 
 EVALUATION:
 
