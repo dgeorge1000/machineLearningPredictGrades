@@ -1,4 +1,7 @@
 # machineLearningPredictGrades
+
+ABSTRACT:
+
 Python machine learning code that takes in various parameters of a gradebook to predict the next exam. In the end, although not having enough data allowed for outliers (grade changes of 20+) to heavily influence the model, it was able to predict normal data within 5 points and was a great learning tool as an introduction to machine learning and eventually neural networks.
 
 EXPLANATION:
@@ -13,8 +16,8 @@ VALUES:
 
 Best accuracy run:  88.04178035302945 %
 Test: 
-Prediction: 90.32193165303778      Data: [ 6.  4.  4.  3. 87.]        Actual: 93.0
-Prediction: 104.25035114912606     Data: [  6.   3.   4.   3. 100.]    Actual: 87.0
+Prediction: 90.32193165303778      Data: Semester=6, Difficulty=4/4, gpa=4.0, credits=3      Actual: 93.0
+Prediction: 104.25035114912606     Data: Semester=6, Difficulty=3/4, gpa=4.0, credits=3      Actual: 87.0
 
 
 EVALUATION:
